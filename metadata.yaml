@@ -1,0 +1,29 @@
+_repo: The-Faith-of-Our-Fathers_27435
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gibbons, James
+    alias: Gibbons, James, Cardinal
+    birthdate: 1834
+    deathdate: 1921
+    gutenberg_agent_id: '32691'
+    url: http://www.gutenberg.org/2009/agents/32691
+    wikipedia: http://en.wikipedia.org/wiki/James_Gibbons
+description: ''
+gutenberg_issued: '2008-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Doctrines'
+- !lcc 'BX'
+- !lcsh 'Catholic Church -- Controversial literature'
+title: The Faith of Our Fathers
+url: http://www.gutenberg.org/ebooks/27435
